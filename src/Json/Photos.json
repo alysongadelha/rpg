@@ -1,0 +1,41 @@
+[
+  {
+    "id": "001",
+    "name": "Berdy Yaroslav",
+    "tribe": "Presas de Prata",
+    "brand": "https://i.imgur.com/ZvLpqwc.png",
+    "info": [
+      { "birthDay": "01/01/1990" },
+      { "awake": "02/02/1992" },
+      { "auspices": "Philodox" }
+    ],
+    "img": "https://i.imgur.com/VSMvpuG.jpg",
+    "theme": "rgb(128 128 128)"
+  },
+  {
+    "id": "002",
+    "name": "Zuri Bomani",
+    "tribe": "Presas de Prata",
+    "brand": "https://picsum.photos/50/100",
+    "info": [
+      { "birthDay": "20/09/1987" },
+      { "awake": "04/7/1989" },
+      { "auspices": "Ahroun" }
+    ],
+    "img": "https://i.imgur.com/oVdCWwG.jpg",
+    "theme": "rgb(93 255 224)"
+  },
+  {
+    "id": "003",
+    "name": "Maísa",
+    "tribe": "Presas de Prata",
+    "brand": "https://picsum.photos/50/100",
+    "info": [
+      { "birthDay": "05/11/1980" },
+      { "awake": "18/07/1997" },
+      { "auspices": "Theurge" }
+    ],
+    "img": "https://i.imgur.com/dkJ6sQA.jpg",
+    "theme": "rgb(255 0 0)"
+  }
+]

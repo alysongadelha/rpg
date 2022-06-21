@@ -1,0 +1,16 @@
+.button{
+    position: relative;
+    display: inline-block;
+    /* font-size: .875em;
+    font-family: gill-sans-nova,arial,sans-serif;
+    font-weight: 600; */
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: .8rem 2.525rem;
+    background: #c4171d url(../../Assets/img/button-base.png) no-repeat 50%;
+    background-size: fit;
+    text-shadow: 0 2px 10px #000;
+    border-radius: .5rem;
+    transition: transform .3s ease-in-out,box-shadow .2s ease-in-out;
+    cursor: pointer;
+}

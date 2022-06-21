@@ -1,0 +1,17 @@
+.header {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eeeeee;
+}
+
+.nav {
+    margin: 0 auto;
+}
+
+.nav a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}

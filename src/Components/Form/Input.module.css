@@ -1,0 +1,18 @@
+.MuiFormControl-root > label {
+    background-color: brown;
+    color: brown;
+}
+
+.MuiFormControl-root > .MuiFormLabel-root.Mui-focused {
+    color:brown;
+}
+
+
+.MuiInputLabel-root > label {
+    background-color: brown;
+    color: brown;
+}
+
+.MuiInputLabel-root > .MuiFormLabel-root.Mui-focused {
+    color:brown;
+}
